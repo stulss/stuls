@@ -1,0 +1,22 @@
+### 과거 기술
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fd062363-9d35-49c3-87c3-a562e2207005/43ae5d41-713c-4e4a-bb32-c50bb58b1264/Untitled.png)
+
+### 현재 사용 기술
+
+![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fd062363-9d35-49c3-87c3-a562e2207005/9acda8fc-5543-459a-b628-35e9bc562148/Untitled.png)
+
+- 스프링 부트의 등장
+    - 스프링 부트는 서버를 내장
+    - 과거에는 서버에 WAS를 직접 설치하고, 소스는 War파일을 만들어서 설치한 was에 배포
+    - 스프링 부트는 빌드 결과(Jar)에 WAS 서버 포함 → 빌드 배포 단순화
+    
+    최신 기술 - 스프링 웹 기술의 분화
+    
+    Web Servlet - Spring MVC
+    
+    Web Reactive - Spring WebFlux
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fd062363-9d35-49c3-87c3-a562e2207005/6a83e96c-d4e1-4893-a918-ef8dd528368f/Untitled.png)
+    
+    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fd062363-9d35-49c3-87c3-a562e2207005/54d4b0a8-85fc-499d-a780-d7102582379f/Untitled.png)
